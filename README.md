@@ -36,6 +36,8 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 Hyperledger, 1,000 transactions/second
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # From the press: Blockchain in action <p> 
   
  <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
@@ -55,6 +57,7 @@ IBM and Danish shipping giant Maersk are teaming up to form a new company whose 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
 <p>
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hyperledger : http://hyperledger.org/
 
@@ -134,6 +137,7 @@ In Hyperledger Composer: save data model as a .bna file.
 
 [Deploy a sample application to the IBM Blockchain Platform Get up and running with the Enterprise Membership fast](https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html)
 
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 # Exercises
 
 <a href="https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html">IBM Blockchain 101: Quick-start guide for developers. Create your first blockchain network and start coding applications</a>
