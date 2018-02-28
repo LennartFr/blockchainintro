@@ -20,8 +20,6 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 ### Blockchain Distributed Ledger  
   
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
@@ -64,6 +62,8 @@ Deployed in Docker images.
 Google RPC P2P Protocol<p> 
 https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-architecture-6d3c83818eb1
 <p>
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Hyperledger main components 
 
