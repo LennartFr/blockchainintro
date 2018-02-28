@@ -112,6 +112,9 @@ Chaincode is a piece of code that is written in one of the supported languages s
 ## Step 4: Learn the Hyperledger Composer tool
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/next/)
 
+[Writing Your First Application]
+(http://hyperledger-fabric.readthedocs.io/en/release/write_first_app.html?highlight=fabcar)
+
 In Hyperledger Composer: save data model as a .bna file.
 
 ## Step 5: Deploy the business network to Hyperledger Fabric. 
