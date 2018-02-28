@@ -42,6 +42,8 @@ Hyperledger, 1,000 transactions/second
 IBM and Danish shipping giant Maersk are teaming up to form a new company whose aim is to commercialize blockchain technology—the nifty, shared accounting ledgers first made famous by the cryptocurrency Bitcoin.
 <p>
 
+<a href="http://fortune.com/2017/10/16/ibm-blockchain-stellar/">IBM and Stellar Are Launching Blockchain Banking Across Multiple Countries</a>
+<p>
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
