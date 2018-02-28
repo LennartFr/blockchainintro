@@ -110,7 +110,7 @@ Chaincode is a piece of code that is written in one of the supported languages s
 [Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
 
 ## Step 4: Learn the Hyperledger Composer tool
-[Hyperledger Composer Tutorial](https://composer-playground.mybluemix.net/)
+[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/next/)
 
 In Hyperledger Composer: save data model as a .bna file.
 
