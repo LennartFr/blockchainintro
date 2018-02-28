@@ -7,13 +7,7 @@ October 2008. It all started with Satoshi Nakamoto and his paper [Bitcoin: A Pee
 
 <img src="https://farm5.staticflickr.com/4505/24079519258_ab8a80f7ed_o.png" width="769" height="229" alt="Double Spending">
 <p>
-<i>
-The first work on a cryptographically secured chain of blocks was described in 1991 by Stuart Haber and W. Scott Stornetta.[17] In 1992, Bayer, Haber and Stornetta incorporated Merkle trees to the design, which improved its efficiency by allowing several documents to be collected into one block.
-  </i><p><i>
-A blockchain database is managed autonomously using a peer-to-peer network and a distributed timestamping server. The first blockchain was conceptualised by an anonymous person or group known as Satoshi Nakamoto in 2008. 
-</i><p>
-https://en.wikipedia.org/wiki/Blockchain
-<p>
+
 <i>A blockchain is a decentralized virtual ledger for recording transactions <b>without central authority </b> through a distributed cryptographic protocol. It is made up of three technologies 
 
 1. cryptographic algorithms, 
@@ -24,21 +18,10 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 </i>
 <p>
-Christian Cachin <a href="https://www.ibm.com/blogs/research/2017/10/resilient-consensus-protocols-blockchains/">Resilient Consensus Protocols for Blockchains</a>
-<p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-## A revolution: From Double-Entry Bookkeeping to the Blockchain Distributed Ledger
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Pacioli.jpg/440px-Pacioli.jpg">
-<p>
-Fra Luca Bartolomeo de Pacioli c. 1447–1517) was an Italian mathematician, Franciscan friar, collaborator with Leonardo da Vinci, and a seminal contributor to the field now known as accounting. 
-
-He is referred to as "The Father of Accounting and Bookkeeping" in Europe and he was the first person to publish a work on the double-entry system of book-keeping in that continent.
-<p>
-  
 ### Blockchain Distributed Ledger  
   
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
