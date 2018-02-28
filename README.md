@@ -36,7 +36,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 Hyperledger, 1,000 transactions/second
 
-## From the press: Blockchain in action <p> 
+# From the press: Blockchain in action <p> 
   
  <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
   
