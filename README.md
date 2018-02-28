@@ -20,7 +20,9 @@ which combined provide a trustworthy service to a group of nodes that do not ful
 <p>
 Source: https://www.zurich.ibm.com/dccl/papers/cachin_dccl.pdf
 
-### Blockchain Distributed Ledger  
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# The Blockchain Distributed Ledger  
   
 <img src="https://www.ibm.com/blogs/internet-of-things/wp-content/uploads/2017/05/2-1.jpg">
 <p> 
@@ -34,7 +36,7 @@ https://console.bluemix.net/docs/services/blockchain/index.html#ibm-blockchain-p
 
 Hyperledger, 1,000 transactions/second
 
-## From the press: <p> 
+## From the press: Blockchain in action <p> 
   
  <img src="https://farm5.staticflickr.com/4085/4948614041_8424d93588_b.jpg" width="640" height="412" alt="MAERSK SAIGON - IMO: 9303534">
   
@@ -44,6 +46,10 @@ IBM and Danish shipping giant Maersk are teaming up to form a new company whose 
 
 <a href="http://fortune.com/2017/10/16/ibm-blockchain-stellar/">IBM and Stellar Are Launching Blockchain Banking Across Multiple Countries</a>
 <p>
+
+# Blockchain Usecases
+[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 <img src="https://www.hyperledger.org/wp-content/uploads/2016/09/logo_hl_new.png">
@@ -85,10 +91,7 @@ Chaincode is a piece of code that is written in one of the supported languages s
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
-  
-# Blockchain Usecases
-[Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
-
+ 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Designing and creating Blockchain applications with Hyperledger
