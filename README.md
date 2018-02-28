@@ -92,9 +92,6 @@ Chaincode is a piece of code that is written in one of the supported languages s
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband"> 
   
- 
-<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
-
 # Designing and creating Blockchain applications with Hyperledger
 
 ## Step 1: Learn Design Thinking
