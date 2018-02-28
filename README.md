@@ -108,7 +108,7 @@ Chaincode is a piece of code that is written in one of the supported languages s
 ## Step 3b: Go through selected Blockchain Developer Patterns
 [Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
 
-## Step 4: Create your own Hyperledger Data Model
+## Step 4: Learn the Hyperledger Composer tool
 [Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
 
 In Hyperledger Composer: save data model as a .bna file.
@@ -130,9 +130,6 @@ In Hyperledger Composer: save data model as a .bna file.
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
 [Deploy a sample application to the IBM Blockchain Platform Get up and running with the Enterprise Membership fast](https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html)
-
-
-
 
 # Exercises
 
@@ -159,9 +156,7 @@ Wondering where blockchain might apply in your own life? Interested in energy, s
 <p>
   
 ## Excercise 3 Create the full marbles app
-<img src="https://farm5.staticflickr.com/4665/27889047409_53ae2f45fd_z.jpg" width="640" height="371" alt="bigmarbles">
-
-https://github.com/IBM-Blockchain/marbles
+Go through the <a href="https://github.com/LennartFr/BlockchainNetwork-CompositeJourney">BlockchainNetwork-CompositeJourney</a>
 
 ## Exercise 4 [IBM Blockchain Platform](https://www.ibm.com/cloud/blockchain-platform)<p>
 An enterprise-ready blockchain platform designed to accelerate the development, governance and operation of a multi-institution business network<p>  
