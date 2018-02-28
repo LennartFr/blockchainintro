@@ -1,8 +1,6 @@
 # blockchainintro
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
-# [Blockchain for DUMMIES](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
-
 # How did it all start?
  
 October 2008. It all started with Satoshi Nakamoto and his paper [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) which addressed a key problem in electronic commerce:
@@ -150,30 +148,25 @@ An enterprise-ready blockchain platform designed to accelerate the development, 
 
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
 <img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
-<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
 
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
 
 # Resources
 
-## Blockchain in the IBM Cloud 
-<a href="https://ibm-blockchain.github.io/">Set up the environment</a>
-
-<a href="https://ibm-blockchain.github.io/">Hyperledger Composer on IBM Cloud</a>
+## [Blockchain for DUMMIES](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=XIM12354USEN)
 
 ## Zero to Bockchain
 <a href="https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html">Zero to Blockchain</a>
 
-[IBM Code: Blockchain Distributed database maintaining a continuously growing list of secured records or blocks](https://developer.ibm.com/code/technologies/blockchain/)
+## [IBM Code: Blockchain Distributed database maintaining a continuously growing list of secured records or blocks](https://developer.ibm.com/code/technologies/blockchain/)
 
-[Welcome to Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release/)
+## [Welcome to Hyperledger Fabric](https://hyperledger-fabric.readthedocs.io/en/release/)
 
-[Blockchain on IBM Cloud](https://console.bluemix.net/catalog/services/blockchain/)
+## [Blockchain on IBM Cloud](https://console.bluemix.net/catalog/services/blockchain/)
 
-[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+## [Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
 
 ## Node-RED and Hyperledger Composer
 
-[Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
+## [Integrate your Blockchain with anything using Hyperledger Composer and NodeRed](https://medium.com/@CazChurchUk/integrate-your-blockchain-with-anything-using-hyperledger-composer-and-nodered-4226676f7e54)
 
