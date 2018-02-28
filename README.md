@@ -71,7 +71,6 @@ https://medium.com/@robertgreenfieldiv/hyperledger-blockchain-for-a-web-2-0-arch
 
 It is also important to note the Hyperledger Fabric has HSM (Hardware Security Module) support which is vital for safeguarding and managing digital keys for strong authentication. Hyperledger Fabric provides modified and unmodified PKCS11 for key generation, which supports cases like identity management that need more protection.
 
-
 ## Channels
 A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
 
@@ -87,6 +86,51 @@ Chaincode is a piece of code that is written in one of the supported languages s
   
 # Blockchain Usecases
 [Blockchain usecases from IBM](https://www.ibm.com/blockchain/use-cases/)
+
+<img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
+# Designing and creating Blockchain applications with Hyperledger
+
+## Step 1: Learn Design Thinking
+
+[IBM Design Thinking Field Guide](https://www.ibm.com/blogs/bluemix/2016/12/ibm-design-thinking-field-guide/)
+
+## Step 2: Go through IBM Blockchain Use Cases
+
+[IBM Blockchain Use Cases](https://www.ibm.com/blockchain/use-cases/)
+
+## Step 3a: Take the IBM Blockchain on-line course
+
+[Zero to Blockchain An IBM Redbooks course](https://www.redbooks.ibm.com/Redbooks.nsf/RedbookAbstracts/crse0401.html)
+
+## Step 3b: Go through selected Blockchain Developer Patterns
+[Blockchain Developer Patterns](https://developer.ibm.com/code/technologies/blockchain/)
+
+## Step 4: Create your own Hyperledger Data Model
+[Hyperledger Composer Tutorial](https://hyperledger.github.io/composer/tutorials/tutorials.html)
+
+In Hyperledger Composer: save data model as a .bna file.
+
+## Step 5: Deploy the business network to Hyperledger Fabric. 
+* This requires the Hyperledger Composer chaincode to be installed on the peer,
+* then the business network archive (.bna) must be sent to the peer, 
+* and a new participant, identity, and associated card must be created to be the network administrator. 
+* Finally, the network administrator business network card must be imported for use, 
+* and the network can then be pinged to check it is responding.
+
+[Step by step description](https://developer.ibm.com/code/patterns/decentralized-energy-hyperledger-composer/)
+
+## Steo 6: [Deploy on the IBM Blockchain Platform](https://www.ibm.com/blockchain/platform/)
+
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img1.png"><br>
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img2.png"><br>
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img3.png"><br>
+<img src="http://34b70.http.dal05.cdn.softlayer.net/broker-static/v1-ga1/img4.png"><br>
+
+[Deploy a sample application to the IBM Blockchain Platform Get up and running with the Enterprise Membership fast](https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html)
+
+
+
 
 # Exercises
 
