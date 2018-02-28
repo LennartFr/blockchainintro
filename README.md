@@ -141,7 +141,7 @@ In Hyperledger Composer: save data model as a .bna file.
 <img src="https://farm5.staticflickr.com/4652/39667642831_41001d8453_z.jpg" width="640" height="429" alt="Composer">
 <p>
   
-[Hyperledger Composer Playground Tutorial](https://hyperledger.github.io/composer/tutorials/playground-tutorial.html)
+[Hyperledger Composer Playground Tutorial](https://composer-playground.mybluemix.net)
 
 <p>
 <a href="https://hyperledger.github.io/composer/introduction/introduction.html">Hyperledger Composer Documentation</a>
