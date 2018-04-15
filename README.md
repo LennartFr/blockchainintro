@@ -83,8 +83,42 @@ It is also important to note the Hyperledger Fabric has HSM (Hardware Security M
 ## Channels
 A Hyperledger Fabric channel is a private “subnet” of communication between two or more specific network members, for the purpose of conducting private and confidential transactions. 
 
-## Chaincode
+## The Ledger and the State Database
+
+There are two place which "store" data in Hyperledger Fabric:
+### The ledger is the actual "blockchain". 
+It is a file-based ledger which stores serialized blocks. Each block has one or more transactions. <br>
+Each transaction contains a read-write set which modifies one or more key/value pairs. <br>
+The ledger is the definitive source of data and is immutable.
+
+### The state database holds the last known committed value for any given key. 
+It is populated when each peer validates and commits a transaction. <br>
+The state database can always be rebuilt from re-processing the ledger. <br>
+There are currently two options for the state database: an embedded LevelDB or an external CouchDB.
 <p>
+As an aside, if you are familiar with Hyperledger Fabric channels, there is a separate ledger for each channel as well.
+<p>
+When we query from where do we retrieve data?  1) from the blockchain chain or 2) from state db? <p>.
+If it is from state db how can it retrieve a specific key because you mentioned "state database holds the last known committed value for any given key" <p> 
+Queries or GetState in chaincode return data from the state db. They will only return the last value for a key. <p>
+If you want to get the entire history for a key, you need to enable the historical database in the configuration of your peer 
+
+### Chaincode.
+Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
   
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>  
