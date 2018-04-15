@@ -107,17 +107,10 @@ If you want to get the entire history for a key, you need to enable the historic
 Like <b>Stored Procedures</b> in a traditional database, handles business logic. http://hyperledger-fabric.readthedocs.io/en/release/chaincode4ade.htm
   
   
+ ### [Consensus](https://www.zurich.ibm.com/blockchain/) 
   
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
+    
   
   
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
