@@ -108,11 +108,11 @@ Like <b>Stored Procedures</b> in a traditional database, handles business logic.
   
   
  ### [Consensus](https://www.zurich.ibm.com/blockchain/) 
-  
-  
-    
-  
-  
+ <p>Today, consensus protocols exist in many variations, but all of them need a majority or even a qualified majority (such as 2/3 of the nodes) to be correct, whereas the remaining ones could fail, misbehave, or even act adversarially against finding consensus.
+
+Starting with the celebrated protocols for Byzantine Agreement established in 1982, consensus protocols have found widespread applications for keeping distributed systems healty and making cloud platforms operate continuously. </p> 
+
+ 
 <img src="https://farm5.staticflickr.com/4523/38243385192_43d682cf94_o.png" width="910" height="483" alt="Hyperledger helloworld 2">
 <p>  
 Chaincode is a piece of code that is written in one of the supported languages such as Go or Java. It is installed and instantiated through an SDK or CLI onto a network of Hyperledger Fabric peer nodes, enabling interaction with that network's shared ledger.  
