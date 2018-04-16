@@ -161,7 +161,10 @@ In Hyperledger Composer: save data model as a .bna file.
 
 [Deploy a sample application to the IBM Blockchain Platform Get up and running with the Enterprise Membership fast](https://www.ibm.com/developerworks/cloud/library/cl-deploy-sample-application-ibm-blockchain-platform/index.html)
 
+[Develop in a cloud sandbox IBM Blockchain Platform](https://ibm-blockchain.github.io/)
+
 <img src="https://farm5.staticflickr.com/4503/37148677233_71edc5a37b_o.png" width="1041" height="53" alt="blueband">
+
 # Exercises
 
 <a href="https://www.ibm.com/developerworks/cloud/library/cl-ibm-blockchain-101-quick-start-guide-for-developers-bluemix-trs/index.html">IBM Blockchain 101: Quick-start guide for developers. Create your first blockchain network and start coding applications</a>
