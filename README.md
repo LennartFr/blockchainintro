@@ -88,6 +88,7 @@ It is also important to note the Hyperledger Fabric has HSM (Hardware Security M
 ### Hyperledger Fabric
 
 ### [IBM Blockchain Platform](https://console.bluemix.net/catalog/services/blockchain)
+### [IBM Blockchain Platform](https://console.bluemix.net/developer/blockchain/dashboard)
 
 ## [Launch a basic IBM Blockchain network on the IBM Container Service's free plan](https://ibm-blockchain.github.io)
 
